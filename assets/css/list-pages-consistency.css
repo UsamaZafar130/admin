@@ -1,0 +1,350 @@
+/**
+ * List Pages Design Consistency
+ * Centralized styling for all list pages to ensure consistent design
+ * Based on orders_list.php as the reference design
+ */
+
+/* ===== PAGE CONTAINER STRUCTURE ===== */
+.page-content-wrapper {
+    /* Wrapper for consistent page width like orders_list.php */
+}
+
+.page-content-wrapper .container {
+    /* Standard container width for consistency */
+}
+
+/* ===== PAGE HEADER STANDARDIZATION ===== */
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+}
+
+.page-header h2 {
+    margin: 0;
+    font-weight: 700;
+    color: var(--bs-primary) !important;
+    font-size: 2rem;
+    letter-spacing: -0.5px;
+}
+
+.page-header .page-actions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+/* ===== BUTTON SPACING FOR STACKED BUTTONS ===== */
+/* Add proper spacing for buttons below header */
+.header-buttons-secondary {
+    margin-bottom: 1.5rem;
+    padding-top: 0.5rem;
+}
+
+.header-buttons-secondary .btn {
+    margin-bottom: 0.5rem;
+}
+
+/* ===== STANDARDIZED BUTTON CLASSES ===== */
+/* 1st button pattern: Success color */
+.btn-action-1 {
+    /* Will use: btn btn-success btn-3d me-2 */
+}
+
+/* 2nd button pattern: Primary color */
+.btn-action-2 {
+    /* Will use: btn btn-primary btn-3d */
+}
+
+/* 3rd button pattern: Outline danger for trash/delete */
+.btn-action-3 {
+    /* Will use: btn btn-outline-danger btn-3d */
+}
+
+/* 4th button pattern: Warning color */
+.btn-action-4 {
+    /* Will use: btn btn-warning btn-3d me-2 */
+}
+
+/* ===== BADGE STANDARDIZATION ===== */
+/* Reduced size badges for better visual consistency */
+.badge-consistent {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    min-width: 70px;
+    text-align: center;
+}
+
+.badge-consistent.badge-secondary { 
+    background: #7f8c8d; 
+}
+
+.badge-consistent.badge-warning { 
+    background: #f39c12; 
+}
+
+.badge-consistent.badge-success { 
+    background: #2ecc40; 
+}
+
+.badge-consistent.badge-danger { 
+    background: #e74c3c; 
+}
+
+.badge-consistent.badge-info { 
+    background: #3498db; 
+}
+
+.badge-consistent.badge-primary { 
+    background: #007bff; 
+}
+
+/* Order status badges - smaller and more consistent */
+.badge-order-status {
+    display: inline-block;
+    padding: 2px 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 11px;
+    text-align: center;
+    min-width: 75px;
+    color: #fff;
+}
+
+.badge-order-status.delivered {
+    background: #2ecc40 !important;
+    color: #fff !important;
+}
+
+.badge-order-status.undelivered {
+    background: #f39c12 !important;
+    color: #fff !important;
+}
+
+.badge-order-status.pending {
+    background: #f39c12 !important;
+    color: #fff !important;
+}
+
+.badge-order-status.paid {
+    background: #2ecc40 !important;
+    color: #fff !important;
+}
+
+.badge-order-status.unpaid {
+    background: #e74c3c !important;
+    color: #fff !important;
+}
+
+.badge-order-status.cancelled {
+    background: #7f8c8d !important;
+    color: #fff !important;
+}
+
+.badge-order-status.partial_paid {
+    background: #f39c12 !important;
+    color: #fff !important;
+}
+
+/* For positive/negative value badges */
+.badge-positive {
+    background: #2ecc40 !important;
+    color: #fff !important;
+}
+
+.badge-negative {
+    background: #e74c3c !important;
+    color: #fff !important;
+}
+
+.badge-neutral {
+    background: #7f8c8d !important;
+    color: #fff !important;
+}
+
+/* ===== ACTION BUTTON ICON STANDARDIZATION ===== */
+/* Based on orders_list.php and batches.css color scheme - REMOVED OUTLINES */
+.action-icons .btn i,
+.btn-outline-primary i,
+.btn-outline-warning i,
+.btn-outline-danger i,
+.btn-outline-success i,
+.btn-outline-info i {
+    /* Remove any outline/border styling */
+    border: none !important;
+    outline: none !important;
+}
+
+.action-icons .btn-outline-primary i,
+.btn-outline-primary i {
+    color: #007b83; /* View/Details - Teal */
+}
+
+.action-icons .btn-outline-primary:hover i,
+.btn-outline-primary:hover i {
+    color: #005a61;
+}
+
+.action-icons .btn-outline-warning i,
+.btn-outline-warning i {
+    color: #f39c12; /* Edit - Orange */
+}
+
+.action-icons .btn-outline-warning:hover i,
+.btn-outline-warning:hover i {
+    color: #d68910;
+}
+
+.action-icons .btn-outline-danger i,
+.btn-outline-danger i {
+    color: #e05353; /* Delete - Red */
+}
+
+.action-icons .btn-outline-danger:hover i,
+.btn-outline-danger:hover i {
+    color: #b92e2e;
+}
+
+.action-icons .btn-outline-success i,
+.btn-outline-success i {
+    color: #1ca37c; /* Success actions - Green */
+}
+
+.action-icons .btn-outline-success:hover i,
+.btn-outline-success:hover i {
+    color: #16745b;
+}
+
+.action-icons .btn-outline-info i,
+.btn-outline-info i {
+    color: #3498db; /* Info actions - Blue */
+}
+
+.action-icons .btn-outline-info:hover i,
+.btn-outline-info:hover i {
+    color: #2980b9;
+}
+
+/* Remove button outline styling completely */
+.btn-outline-primary,
+.btn-outline-warning,
+.btn-outline-danger,
+.btn-outline-success,
+.btn-outline-info {
+    background: transparent !important;
+    border: 1px solid transparent !important;
+    box-shadow: none !important;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-warning:hover,
+.btn-outline-danger:hover,
+.btn-outline-success:hover,
+.btn-outline-info:hover {
+    background: rgba(0,0,0,0.05) !important;
+    border: 1px solid transparent !important;
+}
+
+/* ===== DATATABLE STYLING FIXES ===== */
+/* Fix for dropdown arrow overlapping text - addresses the user's comment */
+.dataTables_wrapper .dataTables_length select {
+    padding-right: 30px !important;
+    background-position: right 8px center !important;
+    background-size: 12px !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'><path fill='%23666' d='m2 0-2 2h4zm0 5 2-2h-4z'/></svg>");
+    background-repeat: no-repeat;
+}
+
+/* Ensure consistent table styling */
+.dataTables_wrapper {
+    font-family: inherit;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0.5rem 0.75rem;
+    margin-left: 2px;
+    border-radius: 0.375rem;
+}
+
+/* Fix for DataTables info and controls alignment */
+.dataTables_wrapper .dataTables_info {
+    padding-top: 0.75rem;
+}
+
+.dataTables_wrapper .dataTables_length {
+    margin-bottom: 1rem;
+}
+
+/* ===== TABLE CONTAINER STANDARDIZATION ===== */
+.table-container {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.table-container .table {
+    margin-bottom: 0;
+}
+
+/* ===== RESPONSIVE BEHAVIOR ===== */
+@media (max-width: 768px) {
+    .page-header {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+    
+    .page-header .page-actions {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    .badge-consistent {
+        font-size: 12px;
+        padding: 3px 10px;
+        min-width: 75px;
+    }
+}
+
+/* ===== ALERT STYLING CONSISTENCY ===== */
+.page-info-alert {
+    max-width: 700px;
+}
+
+.page-info-alert strong {
+    color: var(--bs-info-text-emphasis);
+}
+
+/* ===== WHATSAPP LINK STYLING ===== */
+.whatsapp-link {
+    color: #25D366 !important;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.whatsapp-link:hover {
+    color: #128C7E !important;
+    text-decoration: underline;
+}
+
+/* ===== LOADING AND EMPTY STATES ===== */
+.empty-state {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--bs-secondary);
+}
+
+.empty-state i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: 0.5;
+}

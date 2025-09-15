@@ -1,0 +1,362 @@
+[16-Jun-2025 23:00:56 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/list.php:15
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/list.php(15): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/list.php(45): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/list.php on line 15
+[16-Jun-2025 23:03:40 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/list.php:15
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/list.php(15): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/list.php(45): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/list.php on line 15
+[16-Jun-2025 23:05:32 Asia/Karachi] PHP Warning:  Undefined variable $vendor_id in /home/frozofun/admin/entities/vendors/list.php on line 27
+[16-Jun-2025 23:05:32 Asia/Karachi] PHP Warning:  Undefined variable $owed in /home/frozofun/admin/entities/vendors/list.php on line 30
+[16-Jun-2025 23:05:32 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.vendor_advances' doesn't exist in /home/frozofun/admin/entities/vendors/list.php:19
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/list.php(19): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/list.php(51): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/list.php on line 19
+[16-Jun-2025 23:05:56 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.vendor_advances' doesn't exist in /home/frozofun/admin/entities/vendors/list.php:19
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/list.php(19): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/list.php(46): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/list.php on line 19
+[16-Jun-2025 23:07:00 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[16-Jun-2025 23:07:03 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[16-Jun-2025 23:23:29 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'route' in 'INSERT INTO' in /home/frozofun/admin/entities/vendors/actions.php:64
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(64): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 64
+[16-Jun-2025 23:43:19 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[16-Jun-2025 23:43:22 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[16-Jun-2025 23:43:23 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[16-Jun-2025 23:43:23 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[16-Jun-2025 23:43:23 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:37:48 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:37:48 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:52:51 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:52:52 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:52:53 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:52:53 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:02 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:04 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:04 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:04 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:05 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:05 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:05 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:06 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:06 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:06 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:06 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:08 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:09 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:09 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:55:09 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:56:26 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 01:56:26 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'grand_total' in 'SELECT' in /home/frozofun/admin/entities/vendors/details.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/details.php(14): PDO->prepare()
+#1 /home/frozofun/admin/entities/vendors/details.php(25): get_vendor_balance()
+#2 {main}
+  thrown in /home/frozofun/admin/entities/vendors/details.php on line 14
+[17-Jun-2025 02:26:31 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:85
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(85): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 85
+[17-Jun-2025 02:26:33 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:85
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(85): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 85
+[17-Jun-2025 02:26:33 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:85
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(85): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 85
+[17-Jun-2025 02:26:34 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:85
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(85): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 85
+[17-Jun-2025 02:26:40 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:85
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(85): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 85
+[17-Jun-2025 02:27:49 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:27:50 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:27:50 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:27:50 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:27:56 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:00 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:00 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:01 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:02 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:03 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:07 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:08 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:09 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:09 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:28:10 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:31:26 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:31:52 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:35:35 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:36:37 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:37:51 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:37:52 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:37:58 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:38:01 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[17-Jun-2025 02:38:01 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'applied' in 'WHERE' in /home/frozofun/admin/entities/vendors/actions.php:88
+Stack trace:
+#0 /home/frozofun/admin/entities/vendors/actions.php(88): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/vendors/actions.php on line 88
+[27-Jul-2025 23:15:22 Asia/Karachi] Vendor reports error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'amount' in SELECT is ambiguous
+[27-Jul-2025 23:40:51 Asia/Karachi] Vendor reports error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'amount' in SELECT is ambiguous
+[08-Aug-2025 09:12:18 Asia/Karachi] Vendor reports error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'amount' in SELECT is ambiguous
+[23-Aug-2025 07:43:29 Asia/Karachi] Vendor reports error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'amount' in SELECT is ambiguous
+[24-Aug-2025 11:42:55 Asia/Karachi] Vendor reports error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'amount' in SELECT is ambiguous
+[12-Sep-2025 00:57:48 Asia/Karachi] Vendor reports error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'amount' in SELECT is ambiguous

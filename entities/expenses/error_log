@@ -1,0 +1,33 @@
+[16-Jun-2025 23:43:35 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'route' in 'INSERT INTO' in /home/frozofun/admin/entities/purchases/actions.php:62
+Stack trace:
+#0 /home/frozofun/admin/entities/purchases/actions.php(62): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/purchases/actions.php on line 62
+[17-Jun-2025 00:16:13 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:19:06 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:19:09 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:23:22 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:23:52 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:24:08 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:24:20 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:24:23 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:24:33 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 00:24:35 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/includes/functions.php on line 24
+[17-Jun-2025 07:47:10 UTC] PHP Parse error:  syntax error, unexpected token "...", expecting end of file in /home/frozofun/admin/entities/expenses/actions.php on line 106
+[17-Jun-2025 07:47:41 UTC] PHP Parse error:  syntax error, unexpected token "...", expecting end of file in /home/frozofun/admin/entities/expenses/actions.php on line 106
+[17-Jun-2025 07:49:15 UTC] PHP Parse error:  syntax error, unexpected token "...", expecting end of file in /home/frozofun/admin/entities/expenses/actions.php on line 109
+[17-Jun-2025 07:49:36 UTC] PHP Parse error:  syntax error, unexpected token "...", expecting end of file in /home/frozofun/admin/entities/expenses/actions.php on line 109
+[17-Jun-2025 07:49:55 UTC] PHP Parse error:  syntax error, unexpected token "...", expecting end of file in /home/frozofun/admin/entities/expenses/actions.php on line 109
+[17-Jun-2025 07:51:09 UTC] PHP Parse error:  syntax error, unexpected token "...", expecting end of file in /home/frozofun/admin/entities/expenses/actions.php on line 109
+[17-Jun-2025 23:39:12 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[14-Jul-2025 00:52:18 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[14-Jul-2025 00:52:41 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[14-Jul-2025 00:53:15 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[14-Jul-2025 00:54:18 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[14-Jul-2025 00:54:37 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[07-Aug-2025 20:37:21 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[07-Aug-2025 20:39:18 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[20-Aug-2025 22:05:14 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[01-Sep-2025 22:01:54 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[06-Sep-2025 16:43:45 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169
+[12-Sep-2025 23:36:41 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/expenses/actions.php on line 169

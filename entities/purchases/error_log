@@ -1,0 +1,57 @@
+[16-Jun-2025 23:43:35 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'route' in 'INSERT INTO' in /home/frozofun/admin/entities/purchases/actions.php:62
+Stack trace:
+#0 /home/frozofun/admin/entities/purchases/actions.php(62): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/purchases/actions.php on line 62
+[17-Jun-2025 21:10:08 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 221
+[17-Jun-2025 21:10:10 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 221
+[17-Jun-2025 21:10:11 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 221
+[17-Jun-2025 21:10:17 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 238
+[17-Jun-2025 22:52:15 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[17-Jun-2025 23:25:13 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[17-Jun-2025 23:26:18 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[17-Jun-2025 23:38:55 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[14-Jul-2025 00:53:33 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[05-Aug-2025 02:46:15 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[05-Aug-2025 14:28:57 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[05-Aug-2025 14:29:24 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 196
+[06-Aug-2025 12:16:49 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[07-Aug-2025 20:37:36 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[08-Aug-2025 14:35:07 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[08-Aug-2025 14:35:18 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[08-Aug-2025 14:35:59 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[09-Aug-2025 23:48:12 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[20-Aug-2025 22:05:02 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[20-Aug-2025 22:05:31 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[22-Aug-2025 03:38:45 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[22-Aug-2025 03:39:04 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[22-Aug-2025 20:29:04 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[22-Aug-2025 20:31:06 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:14:26 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:14:42 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:14:53 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:15:01 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:15:08 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:15:19 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:15:48 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[26-Aug-2025 20:16:25 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[27-Aug-2025 17:49:05 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[27-Aug-2025 17:49:40 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[31-Aug-2025 23:32:44 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[31-Aug-2025 23:32:55 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[31-Aug-2025 23:33:04 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 196
+[31-Aug-2025 23:33:54 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[31-Aug-2025 23:35:14 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[01-Sep-2025 22:02:16 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:40:24 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:41:14 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:42:35 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:42:55 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:43:19 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:43:30 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:44:26 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:47:47 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[06-Sep-2025 16:47:59 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[07-Sep-2025 22:46:29 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170
+[09-Sep-2025 14:19:06 Asia/Karachi] PHP Warning:  Undefined array key "HTTP_X_REQUESTED_WITH" in /home/frozofun/admin/entities/purchases/actions.php on line 170

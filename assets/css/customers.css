@@ -1,0 +1,80 @@
+/* Customer Page Styling */
+.receivable-btn {
+    background: #1565c0;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 22px;
+    font-size: 1.06em;
+    font-weight: 600;
+    margin-left: 14px;
+    cursor: pointer;
+    transition: background 0.12s;
+    box-shadow: 0 1px 4px rgba(40,60,90,0.07);
+}
+
+.receivable-btn:hover { 
+    background: #19539a; 
+}
+
+.total-receivable {
+    font-size: 1.13em;
+    font-weight: 600;
+    color: #1565c0;
+    margin-bottom: 14px;
+}
+
+.customer-wa-link {
+    color: #1761ae;
+    font-weight: 600;
+    text-decoration: underline;
+    transition: color 0.14s;
+}
+
+.customer-wa-link:hover {
+    color: #128C7E;
+    text-decoration: underline;
+}
+
+.amount {
+    text-align: right;
+    font-weight: 600;
+    color: #b25d13;
+}
+
+.entity-table td.actions-cell, .entity-table th.actions-cell {
+    min-width: 120px;
+    max-width: 1px;
+    white-space: nowrap !important;
+    padding: 4px 6px;
+    width: 1%;
+    text-align: left;
+}
+
+.entity-table .actions-inline {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    gap: 4px;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+}
+
+.entity-table .actions-inline .btn-ico {
+    margin: 0;
+    flex: 0 0 auto;
+}
+
+@media (max-width: 550px) {
+    .entity-table td.actions-cell, .entity-table th.actions-cell {
+        min-width: 90px;
+        max-width: none;
+        width: auto;
+        overflow-x: auto;
+    }
+    .entity-table .actions-inline {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        max-width: 99vw;
+    }
+}

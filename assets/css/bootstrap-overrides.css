@@ -1,0 +1,318 @@
+/* Bootstrap Overrides - Minimal custom styling to maintain functionality */
+
+/* Professional 3D Button Styling */
+.btn-3d {
+    position: relative;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15), 0 2px 4px rgba(0,0,0,0.1);
+    transform: translateY(0);
+    border-width: 2px;
+    padding: 8px 16px; /* Consistent padding for all buttons */
+}
+
+.btn-3d:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2), 0 3px 6px rgba(0,0,0,0.15);
+}
+
+.btn-3d:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), 0 1px 2px rgba(0,0,0,0.1);
+}
+
+/* Badge Color Definitions for Status Indicators */
+.badge-outstanding {
+    background-color: var(--bs-danger) !important;
+    color: white !important;
+}
+
+.badge-surplus {
+    background-color: var(--bs-success) !important;
+    color: white !important;
+}
+
+.badge-settled {
+    background-color: var(--bs-secondary) !important;
+    color: white !important;
+}
+
+/* Consistent button padding sitewide */
+.btn {
+    padding: 8px 16px;
+    font-weight: 500;
+}
+
+.btn-sm {
+    padding: 6px 12px;
+    font-size: 0.875rem;
+}
+
+.btn-lg {
+    padding: 12px 24px;
+    font-size: 1.125rem;
+}
+
+/* Module and metric card hover effects */
+.module-card, .metric-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.module-card:hover, .metric-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
+}
+
+/* Disabled link styling */
+.disabled-link {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+/* Enhanced card styling */
+.card {
+    border-radius: 10px;
+}
+
+/* Navbar brand hover effect */
+.navbar-brand img {
+    transition: transform 0.2s ease-in-out;
+}
+
+.navbar-brand:hover img {
+    transform: scale(1.05);
+}
+
+/* Nav link hover effects */
+.nav-link {
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.nav-link:hover {
+    background-color: rgba(13, 110, 253, 0.1);
+    border-radius: 6px;
+}
+
+/* Floating Action Button */
+#floating-inventory-btn {
+    position: fixed;
+    right: 32px;
+    bottom: 32px;
+    background: var(--bs-primary);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 2rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+    cursor: pointer;
+    z-index: 1100;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+#floating-inventory-btn:hover {
+    background: var(--bs-primary);
+    filter: brightness(0.9);
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+}
+
+#floating-inventory-actions {
+    position: fixed;
+    right: 38px;
+    bottom: 98px;
+    z-index: 1200;
+    min-width: 170px;
+    animation: fadeInMenu 0.3s ease;
+}
+
+@keyframes fadeInMenu {
+    from { opacity: 0; transform: translateY(20px);}
+    to   { opacity: 1; transform: translateY(0);}
+}
+
+.floating-actions-menu {
+    background: var(--bs-body-bg);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    padding: 8px 0;
+    min-width: 200px;
+    border: 1px solid var(--bs-border-color);
+}
+
+.floating-action-item {
+    width: 100%;
+    padding: 12px 20px;
+    background: none;
+    border: none;
+    text-align: left;
+    font-size: 1rem;
+    color: var(--bs-primary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-radius: 0;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.floating-action-item:hover {
+    background: var(--bs-primary-bg-subtle);
+    color: var(--bs-primary);
+}
+
+.floating-action-item i {
+    width: 16px;
+    text-align: center;
+}
+
+/* Modal styling */
+#floating-inventory-modal {
+    position: fixed;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1300;
+    width: auto;
+    min-width: 0;
+    min-height: 0;
+    background: rgba(0,0,0,0.08);
+}
+
+.floating-modal-content {
+    background: var(--bs-body-bg);
+    border-radius: 12px;
+    box-shadow: 0 4px 22px rgba(0,0,0,0.13);
+    padding: 0 0 8px 0;
+    width: auto;
+    min-width: 0;
+    min-height: 0;
+    max-height: 72vh;
+    position: relative;
+    animation: fadeInModal 0.17s;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+@keyframes fadeInModal {
+    from { opacity: 0; transform: translateY(18px);}
+    to   { opacity: 1; transform: translateY(0);}
+}
+
+#floating-inventory-modal-body {
+    padding: 10px 2px 10px 2px;
+    overflow-y: auto;
+    overflow-x: visible;
+    width: 100%;
+    height: 100%;
+    max-height: 62vh;
+    /* Hide scrollbar but allow scrolling */
+    scrollbar-width: none;         /* Firefox */
+    -ms-overflow-style: none;      /* IE 10+ */
+}
+
+#floating-inventory-modal-body::-webkit-scrollbar { display: none; }
+
+/* Modal styling for excess stock modal only - prevent conflicts with Bootstrap 5 */
+#excess-stock-modal.modal {
+    display: none;
+}
+
+#excess-stock-modal.modal.show { 
+    display: flex !important;
+}
+
+#excess-stock-modal .modal-close { 
+    background: none; 
+    border: none; 
+    font-size: 1.5rem; 
+    color: var(--bs-secondary); 
+    cursor: pointer; 
+    margin-left: 18px;
+}
+
+#excess-stock-modal .modal-close:hover { 
+    color: var(--bs-danger); 
+}
+
+/* Table styling */
+.entity-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.entity-table th, .entity-table td {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--bs-border-color);
+    text-align: left;
+}
+
+.entity-table th {
+    background: var(--bs-light);
+}
+
+.entity-table tr:nth-child(even) {
+    background-color: var(--bs-light);
+}
+
+.entity-table tr:nth-child(odd) {
+    background-color: var(--bs-body-bg);
+}
+
+/* Badge styling */
+.badge-surplus {
+    background: var(--bs-success-bg-subtle);
+    color: var(--bs-success);
+    font-weight: bold;
+    padding: 2px 10px;
+    border-radius: 8px;
+    font-size: 1em;
+}
+
+/* DataTable Bootstrap integration */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter,
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
+    color: var(--bs-body-color);
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    color: var(--bs-primary) !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: var(--bs-primary-bg-subtle) !important;
+    border-color: var(--bs-primary) !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background: var(--bs-primary) !important;
+    border-color: var(--bs-primary) !important;
+    color: white !important;
+}
+
+/* Tom Select Bootstrap integration */
+.ts-control {
+    border: 1px solid var(--bs-border-color);
+    border-radius: 0.375rem;
+}
+
+.ts-control:focus {
+    border-color: var(--bs-primary);
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+/* Flash messages */
+.flash-message {
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    z-index: 1050;
+    max-width: 300px;
+}

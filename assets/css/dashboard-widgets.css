@@ -1,0 +1,195 @@
+/* Dashboard Card Drag and Drop Styles */
+.dashboard-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 8px;
+    margin-bottom: 0; /* Let Bootstrap handle spacing */
+}
+
+/* Row-based layout styling */
+.dashboard-row {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.dashboard-row-content {
+    position: relative;
+}
+
+/* Row drag handle styling */
+.row-drag-handle {
+    cursor: move;
+    padding: 8px 12px;
+    background: rgba(0, 123, 255, 0.1);
+    border: 2px dashed #007bff;
+    border-radius: 6px;
+    color: #007bff;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    margin-bottom: 0.5rem;
+}
+
+.row-drag-handle:hover {
+    background: rgba(0, 123, 255, 0.2);
+    border-color: #0056b3;
+    color: #0056b3;
+}
+
+/* Dashboard card placeholders for empty spaces */
+.dashboard-card-placeholder {
+    opacity: 0.3;
+    border: 2px dashed #dee2e6;
+    border-radius: 8px;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(248, 249, 250, 0.5);
+    position: relative;
+}
+
+.dashboard-card-placeholder::after {
+    content: "Hidden Card";
+    color: #6c757d;
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0.7;
+}
+
+/* Edit mode styling */
+.dashboard-card.edit-mode {
+    position: relative;
+}
+
+.dashboard-card.edit-mode:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.15);
+}
+
+.dashboard-card.edit-mode .card {
+    border: 2px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+.dashboard-card.edit-mode:hover .card {
+    border-color: #007bff;
+}
+
+/* Drag handle styling */
+.drag-handle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: move;
+    opacity: 0.5;
+    transition: opacity 0.2s ease;
+    z-index: 10;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 4px;
+    padding: 4px 6px;
+    font-size: 12px;
+    color: #6c757d;
+}
+
+/* Override d-none when in edit mode */
+.dashboard-card.edit-mode .drag-handle.d-none {
+    display: block !important;
+}
+
+.dashboard-card.edit-mode:hover .drag-handle {
+    opacity: 1;
+    color: #007bff;
+}
+
+/* Sortable states for cards */
+.sortable-ghost {
+    opacity: 0.5;
+    background: #f8f9fa;
+    border: 2px dashed #007bff;
+    border-radius: 8px;
+}
+
+.sortable-ghost .card {
+    background: transparent;
+    border: none;
+}
+
+.sortable-chosen {
+    transform: rotate(2deg);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+}
+
+.sortable-drag {
+    transform: rotate(5deg);
+    z-index: 1001;
+}
+
+/* Sortable states for rows */
+.sortable-ghost-row {
+    opacity: 0.5;
+    background: rgba(0, 123, 255, 0.1);
+    border: 2px dashed #007bff;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.sortable-chosen-row {
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 123, 255, 0.2);
+    z-index: 1000;
+}
+
+.sortable-drag-row {
+    transform: scale(1.05);
+    z-index: 1001;
+}
+
+/* Special handling for analytics dashboard card */
+.dashboard-card[data-card-id="analytics-dashboard"] .drag-handle {
+    top: 20px;
+    right: 20px;
+    background: rgba(248, 249, 250, 0.95);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .drag-handle {
+        opacity: 0.8;
+        font-size: 14px;
+        padding: 6px 8px;
+    }
+    
+    .row-drag-handle {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+    
+    .dashboard-card.edit-mode {
+        margin-bottom: 10px;
+    }
+    
+    .dashboard-card.edit-mode:hover {
+        transform: none; /* Disable hover transform on mobile */
+    }
+    
+    .dashboard-card-placeholder::after {
+        font-size: 10px;
+    }
+}
+
+/* Toast styling for success messages */
+.toast {
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Edit mode notification */
+#edit-mode-notification {
+    border-radius: 8px;
+    border: 2px solid #0dcaf0;
+    box-shadow: 0 4px 12px rgba(13, 202, 240, 0.3);
+    background-color: #cff4fc;
+    color: #055160;
+}

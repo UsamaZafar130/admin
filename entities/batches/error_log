@@ -1,0 +1,168 @@
+[05-Jul-2025 22:32:16 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 82
+[05-Jul-2025 22:32:18 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 82
+[05-Jul-2025 22:32:21 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 82
+[05-Jul-2025 22:40:51 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 15
+[05-Jul-2025 22:40:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 15
+[05-Jul-2025 22:40:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 15
+[05-Jul-2025 22:40:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 15
+[05-Jul-2025 22:40:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 15
+[05-Jul-2025 22:40:53 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 15
+[05-Jul-2025 22:45:09 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:45:11 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:45:11 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:45:11 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:45:11 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:45:28 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 17
+[05-Jul-2025 22:45:30 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 17
+[05-Jul-2025 22:45:30 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 17
+[05-Jul-2025 22:45:30 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 17
+[05-Jul-2025 22:51:05 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:51:06 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:51:06 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:51:07 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 22:51:07 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function updateBatchStatusForOrder() in /home/frozofun/admin/entities/batches/batch_orders_api.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_orders_api.php on line 87
+[05-Jul-2025 23:56:05 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:05 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:05 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:05 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:05 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:07 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:07 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:07 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:08 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:08 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:08 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:08 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:56:08 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:58:28 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:58:28 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:58:34 Asia/Karachi] PHP Warning:  Undefined variable $batch in /home/frozofun/admin/entities/batches/batch.php on line 5
+[05-Jul-2025 23:58:34 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/frozofun/admin/entities/batches/batch.php on line 5
+[06-Jul-2025 01:57:15 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:21 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:22 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:22 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:38 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:39 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:39 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:39 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 01:57:40 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.payments' doesn't exist in /home/frozofun/admin/entities/batches/batch_summary.php:22
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(22): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 22
+[06-Jul-2025 02:26:07 Asia/Karachi] PHP Warning:  include(/home/frozofun/admin/entities/batches/../inventory/stock_requirements.php?order_ids=9%2C17%2C18%2C19%2C20%2C21%2C22%2C23): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/batches/api_upcoming_batch_stock.php on line 35
+[06-Jul-2025 02:26:07 Asia/Karachi] PHP Warning:  include(): Failed opening '/home/frozofun/admin/entities/batches/../inventory/stock_requirements.php?order_ids=9%2C17%2C18%2C19%2C20%2C21%2C22%2C23' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/batches/api_upcoming_batch_stock.php on line 35
+[13-Sep-2025 01:00:33 Asia/Karachi] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/frozofun/admin/entities/batches/batch_summary.php:61
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(61): intdiv()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 61
+[13-Sep-2025 01:05:09 Asia/Karachi] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/frozofun/admin/entities/batches/batch_summary.php:55
+Stack trace:
+#0 /home/frozofun/admin/entities/batches/batch_summary.php(55): intdiv()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/batches/batch_summary.php on line 55

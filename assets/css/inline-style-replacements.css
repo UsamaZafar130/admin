@@ -1,0 +1,708 @@
+/**
+ * CSS replacements for removed inline styles
+ * This file provides consistent Bootstrap styling to replace inline CSS
+ */
+
+/* General utility classes */
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+/* Icon container sizes for dashboard cards */
+.icon-container-sm {
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.icon-container-md {
+    width: 60px !important;
+    height: 60px !important;
+}
+
+/* Badge Styling - Replace inline badge colors with consistent Bootstrap styles */
+.badge-summary {
+    background-color: var(--bs-primary) !important;
+    color: white !important;
+    font-size: 15px !important;
+    padding: 6px 22px !important;
+    min-width: 120px !important;
+    display: inline-block;
+    text-align: center;
+    border-radius: var(--bs-border-radius);
+}
+
+.badge-summary.badge-total-received {
+    background-color: var(--bs-dark) !important;
+    min-width: 140px !important;
+}
+
+.badge-summary.badge-bank {
+    background-color: var(--bs-info) !important;
+}
+
+.badge-summary.badge-cash {
+    background-color: var(--bs-success) !important;
+}
+
+.badge-summary.badge-pending {
+    background-color: var(--bs-warning) !important;
+}
+
+.badge-summary.badge-receivable {
+    background-color: var(--bs-danger) !important;
+    min-width: 140px !important;
+}
+
+.badge-disabled {
+    background-color: var(--bs-danger) !important;
+    color: white !important;
+    margin-left: 4px;
+    font-size: 0.92em;
+}
+
+/* Table Styling - Remove inline table striping and use consistent Bootstrap classes */
+.table-consistent {
+    width: 100% !important;
+}
+
+.table-consistent.table-striped > tbody > tr:nth-of-type(odd) > td,
+.table-consistent.table-striped > tbody > tr:nth-of-type(odd) > th {
+    background-color: var(--bs-gray-100);
+}
+
+/* Remove custom table row backgrounds, let Bootstrap handle it */
+.entity-table tr {
+    background-color: transparent !important;
+}
+
+.vendor-disabled-row {
+    opacity: 0.65;
+    background-color: var(--bs-light) !important;
+}
+
+/* Icon Styling - Consistent icon sizes and colors */
+.icon-standard {
+    font-size: 16px !important;
+    color: var(--bs-primary) !important;
+}
+
+.icon-small {
+    font-size: 14px !important;
+}
+
+.icon-large {
+    font-size: 18px !important;
+}
+
+/* Text and Font Styling - Remove inline font sizes and colors */
+.text-standard {
+    font-size: 1rem !important;
+    color: var(--bs-body-color) !important;
+}
+
+.text-muted-custom {
+    color: var(--bs-secondary) !important;
+    font-size: 1.08em !important;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.text-success-custom {
+    color: var(--bs-success) !important;
+    font-size: 1.08em !important;
+    text-align: center;
+    padding: 18px 0;
+}
+
+/* Action Button Styling */
+.action-btns {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Full-width primary button for forms */
+.btn-primary-full {
+    width: 100% !important;
+    font-size: 1.13em !important;
+}
+
+/* Back button with left margin */
+.btn-back-spaced {
+    margin-left: 2em !important;
+}
+
+/* Orders page styling */
+.orders-content .entity-header,
+.orders-content .orders-header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    margin-bottom: 18px;
+    margin-top: 18px;
+}
+
+.orders-content .entity-header h2,
+.orders-content .orders-header-row h2 {
+    margin: 0;
+    font-weight: 700;
+    color: #0070e0;
+    font-size: 2rem;
+    letter-spacing: -.5px;
+}
+
+.orders-content .orders-filter-action-row {
+    width: 96%;
+    margin: 0 auto 10px auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.orders-content .orders-filter-select {
+    min-width: 180px;
+    border-radius: 8px;
+    border: 1.5px solid #eaf0fa;
+    padding: 7px 12px;
+    font-size: 1.06rem;
+    color: #0070e0;
+    background: #f9fbfd;
+    margin-bottom: 7px;
+}
+
+.orders-content .orders-filter-select:focus {
+    border: 1.5px solid #0070e0;
+    outline: none;
+    background: #fff;
+}
+
+.orders-content .orders-customer-link {
+    color: #25D366 !important;
+    text-decoration: none;
+    font-weight: 500;
+    word-break: break-all;
+}
+
+.orders-content .orders-customer-link:hover {
+    text-decoration: underline;
+    color: #128C7E !important;
+}
+
+.action-btns .btn-ico {
+    padding: 4px 8px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: none !important;
+    color: var(--bs-primary) !important;
+    box-shadow: none;
+    transition: color 0.15s;
+    min-width: 32px;
+    min-height: 32px;
+}
+
+.action-btns .btn-ico:hover {
+    color: var(--bs-primary-text-emphasis) !important;
+    background-color: var(--bs-primary-bg-subtle) !important;
+}
+
+/* Batch Summary Styling */
+.batch-summary-header {
+    margin-bottom: 0 !important;
+}
+
+.batch-summary-badges {
+    margin-bottom: 0 !important;
+}
+
+.batch-summary-modal {
+    padding-bottom: 20px !important;
+}
+
+.batch-summary-modal.transparent-bg {
+    padding-bottom: 20px !important;
+}
+
+/* Form Field Styling - Keep necessary form styling but remove unnecessary inline styles */
+.form-field-custom {
+    /* This class is preserved for entity-specific form customizations */
+}
+
+/* Header Selector Styling - Keep width auto for dropdowns in header */
+#theme-selector,
+#timezone-selector {
+    width: auto !important;
+}
+
+/* Layout and Display Utilities */
+.d-none-important {
+    display: none !important;
+}
+
+.d-inline-block-important {
+    display: inline-block !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.text-center-important {
+    text-align: center !important;
+}
+
+.width-auto {
+    width: auto !important;
+}
+
+.width-100 {
+    width: 100% !important;
+}
+
+.max-width-700 {
+    max-width: 700px !important;
+}
+
+.max-width-800 {
+    max-width: 800px !important;
+}
+
+/* Margin and Padding Utilities */
+.margin-0 {
+    margin: 0 !important;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0 !important;
+}
+
+.margin-bottom-05em {
+    margin-bottom: 0.5em !important;
+}
+
+.margin-bottom-12px {
+    margin-bottom: 12px !important;
+}
+
+.margin-left-4px {
+    margin-left: 4px !important;
+}
+
+.margin-left-12px {
+    margin-left: 12px !important;
+}
+
+.margin-right-30px {
+    margin-right: 30px !important;
+}
+
+.margin-top-2px {
+    margin-top: 2px !important;
+}
+
+.padding-2-5 {
+    padding: 2px 5px !important;
+}
+
+.padding-12-center {
+    padding: 12px;
+    text-align: center;
+}
+
+.padding-36-0 {
+    padding: 36px 0;
+}
+
+/* Font and Text Utilities */
+.font-size-13 {
+    font-size: 13px !important;
+}
+
+.font-size-14 {
+    font-size: 14px !important;
+}
+
+.font-size-15 {
+    font-size: 15px !important;
+}
+
+.font-size-1-3em {
+    font-size: 1.3em !important;
+}
+
+.font-size-2-2em {
+    font-size: 2.2em !important;
+}
+
+.font-size-2-5em {
+    font-size: 2.5em !important;
+}
+
+.font-weight-bold {
+    font-weight: bold !important;
+}
+
+/* Sizing Utilities */
+.width-40px {
+    width: 40px !important;
+}
+
+.height-40px {
+    height: 40px !important;
+}
+
+.width-80px {
+    width: 80px !important;
+}
+
+.width-150px {
+    width: 150px !important;
+}
+
+.size-40px {
+    width: 40px !important;
+    height: 40px !important;
+}
+
+/* Image and Object Utilities */
+.object-fit-cover {
+    object-fit: cover !important;
+}
+
+/* Modal and Overlay Utilities */
+.modal-overlay-hidden {
+    display: none !important;
+}
+
+.modal-overlay-visible {
+    display: flex !important;
+}
+
+.modal-close-btn {
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    font-size: 1.3em !important;
+    float: right !important;
+}
+
+.modal-title-inline {
+    display: inline-block !important;
+}
+
+.modal-action-btn {
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    font-size: 1.3em !important;
+    float: right !important;
+    margin-top: 2px !important;
+    margin-right: 30px !important;
+}
+
+/* Loading Spinner */
+.loading-center {
+    text-align: center !important;
+    margin: 36px 0 !important;
+}
+
+.loading-spinner {
+    font-size: 2.5em !important;
+    color: #3498db !important;
+}
+
+.loading-spinner-sm {
+    font-size: 2.2em !important;
+    color: #3498db !important;
+}
+
+/* Flex Utilities */
+.flex-1 {
+    flex: 1 !important;
+}
+
+.pointer-events-none {
+    pointer-events: none !important;
+}
+
+.opacity-06 {
+    opacity: 0.6 !important;
+}
+
+/* Success and Error Message Styling */
+.link-error, .move-error {
+    display: none !important;
+    color: #c0392b !important;
+    font-weight: bold !important;
+    margin-top: 6px !important;
+}
+
+.link-success {
+    display: none !important;
+    color: #27ae60 !important;
+    font-weight: bold !important;
+    margin-top: 6px !important;
+}
+
+.error-visible {
+    display: block !important;
+}
+
+.success-visible {
+    display: block !important;
+}
+
+/* Form and Table Width Utilities */
+.min-width-140px {
+    min-width: 140px !important;
+}
+
+.max-width-420px {
+    max-width: 420px !important;
+}
+
+.width-24 {
+    width: 24% !important;
+}
+
+.width-10 {
+    width: 10% !important;
+}
+
+.width-12 {
+    width: 12% !important;
+}
+
+.width-14 {
+    width: 14% !important;
+}
+
+.width-16 {
+    width: 16% !important;
+}
+
+.margin-bottom-05rem {
+    margin-bottom: 0.5rem !important;
+}
+
+.margin-right-05rem {
+    margin-right: 0.5rem !important;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0 !important;
+}
+
+/* Error and Alert Styling */
+.error-red-center {
+    color: red !important;
+    text-align: center !important;
+}
+
+/* Modal and Overlay Styling */
+.modal-overlay {
+    display: none !important;
+    background: rgba(0,0,0,0.25) !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    z-index: 99 !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.modal-overlay-flex {
+    display: flex !important;
+}
+
+/* Form and Label Styling */
+.form-width-100 {
+    width: 100% !important;
+}
+
+.modal-title-centered {
+    margin-bottom: 20px !important;
+    text-align: center !important;
+    color: #198754 !important;
+    letter-spacing: 0.5px !important;
+}
+
+.form-section-margin {
+    margin-bottom: 18px !important;
+}
+
+.form-row-flex {
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 14px !important;
+}
+
+.radio-label-a4 {
+    flex: 1 !important;
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer !important;
+    gap: 12px !important;
+    padding: 10px 12px !important;
+    background: #f8fff5 !important;
+    border-radius: 8px !important;
+    border: 2px solid #b9de7e !important;
+}
+
+.radio-label-barcode {
+    flex: 1 !important;
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer !important;
+    gap: 12px !important;
+    padding: 10px 12px !important;
+    background: #f5faff !important;
+    border-radius: 8px !important;
+    border: 2px solid #6ec6ff !important;
+}
+
+.radio-input-green {
+    accent-color: #198754 !important;
+    margin-right: 10px !important;
+    transform: scale(1.2) !important;
+}
+
+.radio-input-blue {
+    accent-color: #2196f3 !important;
+    margin-right: 10px !important;
+    transform: scale(1.2) !important;
+}
+
+.font-weight-600 {
+    font-weight: 600 !important;
+}
+
+.font-size-12 {
+    font-size: 12px !important;
+}
+
+.font-size-11 {
+    font-size: 11px !important;
+}
+
+.color-888 {
+    color: #888 !important;
+}
+
+.margin-top-2px {
+    margin-top: 2px !important;
+}
+
+.disabled-state {
+    pointer-events: none !important;
+    opacity: 0.6 !important;
+}
+
+/* Table Row Styling */
+.table-disabled-row {
+    opacity: 0.65 !important;
+    background-color: var(--bs-light) !important;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .badge-summary {
+        font-size: 13px !important;
+        padding: 4px 16px !important;
+        min-width: 100px !important;
+        margin-bottom: 5px;
+    }
+    
+    .action-btns .btn-ico {
+        font-size: 14px;
+        min-width: 28px;
+        min-height: 28px;
+    }
+}
+
+.modal-content-box {
+}
+
+
+.margin-top-14px {
+}
+
+.text-align-right {
+}
+
+.btn-continue {
+}
+
+
+/* Packing Scan Specific Classes */
+.container-scan {
+}
+
+.form-row-scan {
+}
+
+.margin-left-7px {
+}
+
+.modal-title-camera {
+}
+
+.modal-body-camera {
+}
+
+.camera-container {
+}
+
+.camera-video {
+}
+
+.camera-overlay {
+}
+
+
+/* Print Invoice Styling */
+.no-print-center {
+}
+
+.print-btn {
+}
+
+.print-text {
+}
+
+.flex-align-center {
+}
+
+.order-no-text {
+}
+
+
+/* Payment and Form Styling */
+.padding-18-0 {
+}
+
+.table-full-width {
+}
+
+.flex-gap-center {
+}
+
+.margin-bottom-14px {
+}
+
+
+.width-38px {
+}
+
+.color-red {
+}

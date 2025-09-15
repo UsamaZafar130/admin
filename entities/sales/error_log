@@ -1,0 +1,877 @@
+[18-Jun-2025 14:20:56 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 2
+[18-Jun-2025 14:20:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 2
+[18-Jun-2025 14:21:10 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 2
+[18-Jun-2025 14:21:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 2
+[18-Jun-2025 14:24:57 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 5
+[18-Jun-2025 14:24:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 5
+[18-Jun-2025 14:25:25 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 5
+[18-Jun-2025 14:25:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 5
+[18-Jun-2025 19:27:03 Asia/Karachi] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/header.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 6
+[18-Jun-2025 19:27:03 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/header.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 6
+[18-Jun-2025 19:27:12 Asia/Karachi] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/footer.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 33
+[18-Jun-2025 19:27:12 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/footer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 33
+[18-Jun-2025 14:27:32 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/new_order.php on line 2
+[18-Jun-2025 14:27:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/new_order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/new_order.php on line 2
+[18-Jun-2025 15:09:15 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 2
+[18-Jun-2025 15:09:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 2
+[18-Jun-2025 15:09:48 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:09:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/edit_order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:09:50 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:09:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/edit_order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:28:43 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:28:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/edit_order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:28:44 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:28:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/edit_order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:28:52 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 15:28:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/edit_order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 2
+[18-Jun-2025 20:31:06 Asia/Karachi] PHP Warning:  Undefined global variable $pdo in /home/frozofun/admin/entities/sales/edit_order.php on line 13
+[18-Jun-2025 20:31:06 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/frozofun/admin/entities/sales/edit_order.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 14
+[18-Jun-2025 20:32:05 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.orders' doesn't exist in /home/frozofun/admin/entities/sales/edit_order.php:14
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/edit_order.php(14): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 14
+[18-Jun-2025 20:58:20 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'phone' in 'SELECT' in /home/frozofun/admin/entities/sales/edit_order.php:21
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/edit_order.php(21): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 21
+[18-Jun-2025 21:10:12 Asia/Karachi] PHP Warning:  Undefined global variable $pdo in /home/frozofun/admin/entities/sales/edit_order.php on line 14
+[18-Jun-2025 21:10:12 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/frozofun/admin/entities/sales/edit_order.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/edit_order.php on line 15
+[18-Jun-2025 18:01:07 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../../includes/db.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 3
+[18-Jun-2025 18:01:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../../includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 3
+[18-Jun-2025 18:01:29 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../../includes/db.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[18-Jun-2025 18:01:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../../includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[18-Jun-2025 18:01:53 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/db.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[18-Jun-2025 18:01:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/db.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[18-Jun-2025 18:02:24 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/db_connection.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[18-Jun-2025 18:02:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/db_connection.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $order_id in /home/frozofun/admin/entities/sales/print_invoice.php on line 53
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $order_id in /home/frozofun/admin/entities/sales/print_invoice.php on line 170
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $order_date in /home/frozofun/admin/entities/sales/print_invoice.php on line 173
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $customer_name in /home/frozofun/admin/entities/sales/print_invoice.php on line 177
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $customer_phone in /home/frozofun/admin/entities/sales/print_invoice.php on line 178
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $customer_address in /home/frozofun/admin/entities/sales/print_invoice.php on line 185
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $items in /home/frozofun/admin/entities/sales/print_invoice.php on line 201
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/frozofun/admin/entities/sales/print_invoice.php on line 201
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $discount in /home/frozofun/admin/entities/sales/print_invoice.php on line 216
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $delivery in /home/frozofun/admin/entities/sales/print_invoice.php on line 220
+[18-Jun-2025 18:05:21 UTC] PHP Warning:  Undefined variable $grand_total in /home/frozofun/admin/entities/sales/print_invoice.php on line 224
+[19-Jun-2025 01:11:05 Asia/Karachi] PHP Warning:  Undefined variable $conn in /home/frozofun/admin/entities/sales/new_order.php on line 10
+[19-Jun-2025 01:11:05 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/frozofun/admin/entities/sales/new_order.php:10
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/new_order.php(10): mysqli_query()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/new_order.php on line 10
+[19-Jun-2025 01:38:50 Asia/Karachi] PHP Warning:  Undefined variable $pdo in /home/frozofun/admin/entities/sales/new_order.php on line 94
+[19-Jun-2025 01:38:50 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/frozofun/admin/entities/sales/new_order.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/new_order.php on line 94
+[19-Jun-2025 01:45:31 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asdf' for key 'code' in /home/frozofun/admin/entities/sales/new_order.php:64
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/new_order.php(64): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/new_order.php on line 64
+[19-Jun-2025 17:49:07 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 17:49:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 17:54:12 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 17:54:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 17:57:51 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 17:57:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 18:02:22 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 18:02:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 18:18:13 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 18:18:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 18:54:46 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 18:54:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 20:57:01 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[19-Jun-2025 20:57:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 2
+[20-Jun-2025 02:03:10 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.address' in 'SELECT' in /home/frozofun/admin/entities/sales/shipping_docs.php:28
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(28): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 28
+[20-Jun-2025 02:05:55 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:34
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 34
+[20-Jun-2025 02:06:04 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:34
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 34
+[20-Jun-2025 02:08:28 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:35
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 35
+[20-Jun-2025 02:11:00 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:35
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 35
+[20-Jun-2025 02:12:04 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:35
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 35
+[20-Jun-2025 02:12:21 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:40
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 40
+[20-Jun-2025 02:13:03 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:40
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 40
+[20-Jun-2025 03:17:50 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/frozofun/admin/entities/sales/shipping_docs.php:6
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(6): PDO->query()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 6
+[20-Jun-2025 03:19:12 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/frozofun/admin/entities/sales/shipping_docs.php:6
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(6): PDO->query()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 6
+[20-Jun-2025 03:19:51 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/frozofun/admin/entities/sales/shipping_docs.php:9
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(9): PDO->query()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 9
+[20-Jun-2025 03:41:49 Asia/Karachi] PHP Warning:  include(/home/frozofun/admin/entities/sales/includes/footer.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/shipping_docs.php on line 198
+[20-Jun-2025 03:41:49 Asia/Karachi] PHP Warning:  include(): Failed opening '/home/frozofun/admin/entities/sales/includes/footer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/shipping_docs.php on line 198
+[21-Jun-2025 01:05:30 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 137
+[21-Jun-2025 01:05:30 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 138
+[21-Jun-2025 01:05:47 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 137
+[21-Jun-2025 01:05:47 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 138
+[21-Jun-2025 01:06:12 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 137
+[21-Jun-2025 01:06:12 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 138
+[21-Jun-2025 01:09:12 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 138
+[21-Jun-2025 18:44:55 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/frozofun/admin/entities/sales/shipping_docs.php on line 71
+[21-Jun-2025 20:50:23 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/includes/auth_check.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_summary.php on line 2
+[21-Jun-2025 20:50:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/includes/auth_check.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_summary.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_summary.php on line 2
+[22-Jun-2025 01:51:11 Asia/Karachi] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/includes/footer.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_summary.php on line 114
+[22-Jun-2025 01:51:11 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/includes/footer.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_summary.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_summary.php on line 114
+[23-Jun-2025 00:43:25 Asia/Karachi] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../../includes/headers.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/new_order.php on line 3
+[23-Jun-2025 00:43:25 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../../includes/headers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/new_order.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/new_order.php on line 3
+[22-Jun-2025 22:15:14 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/frozofun/admin/entities/sales/new_order.php on line 7
+[22-Jun-2025 22:15:20 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/frozofun/admin/entities/sales/new_order.php on line 7
+[23-Jun-2025 17:47:49 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'frozofun_main.orders' doesn't exist in /home/frozofun/admin/entities/sales/new_order.php:29
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/new_order.php(29): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/new_order.php on line 29
+[23-Jun-2025 14:52:25 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /home/frozofun/admin/entities/sales/new_order.php on line 189
+[23-Jun-2025 20:34:45 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.status' in 'SELECT' in /home/frozofun/admin/entities/sales/Actions.php:13
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/Actions.php(13): PDO->query()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/Actions.php on line 13
+[03-Jul-2025 00:12:01 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'oi.unit_price' in 'SELECT' in /home/frozofun/admin/entities/sales/shipping_docs.php:294
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(294): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 294
+[04-Jul-2025 02:46:33 Asia/Karachi] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/../../includes/headers.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/orders_list.php on line 4
+[04-Jul-2025 02:46:33 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/../../includes/headers.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/orders_list.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/orders_list.php on line 4
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:04:45 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:05:11 Asia/Karachi] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/frozofun/admin/entities/sales/shipping_docs.php on line 493
+[07-Jul-2025 01:28:46 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'batch_id' in 'SELECT' in /home/frozofun/admin/entities/sales/shipping_docs.php:39
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(39): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 39
+[07-Jul-2025 02:08:27 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM shipping_batch_orders WHERE order_id IN (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)' at line 1 in /home/frozofun/admin/entities/sales/shipping_docs.php:112
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(112): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 112
+[07-Jul-2025 02:09:18 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM shipping_batch_orders WHERE order_id IN (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)' at line 1 in /home/frozofun/admin/entities/sales/shipping_docs.php:102
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(102): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 102
+[07-Jul-2025 02:09:54 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM shipping_batch_orders WHERE order_id IN (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)' at line 1 in /home/frozofun/admin/entities/sales/shipping_docs.php:97
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(97): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 97
+[07-Jul-2025 02:11:19 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM shipping_batch_orders WHERE order_id IN (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)' at line 1 in /home/frozofun/admin/entities/sales/shipping_docs.php:97
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(97): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 97
+[07-Jul-2025 02:11:23 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM shipping_batch_orders WHERE order_id IN (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)' at line 1 in /home/frozofun/admin/entities/sales/shipping_docs.php:97
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(97): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 97
+[07-Jul-2025 02:16:21 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'batch_id' in 'SELECT' in /home/frozofun/admin/entities/sales/shipping_docs.php:39
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(39): PDO->prepare()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 39
+[07-Jul-2025 02:17:07 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/shipping_docs.php:40
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/shipping_docs.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/shipping_docs.php on line 40
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:34:22 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 02:49:14 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 18:51:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:00:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[07-Jul-2025 19:01:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:00:44 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:14:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:15:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:27:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:06 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:28:08 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:12 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:13 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:29:15 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 20:33:59 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:43 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 21:37:51 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:25:10 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:26:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 22:30:54 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:05:11 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:26:36 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[09-Jul-2025 23:29:55 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[10-Jul-2025 23:41:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[13-Jul-2025 22:37:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[13-Jul-2025 22:37:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[13-Jul-2025 22:37:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[13-Jul-2025 22:37:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[13-Jul-2025 22:37:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[13-Jul-2025 22:37:19 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[14-Jul-2025 03:04:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[14-Jul-2025 03:04:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[14-Jul-2025 03:04:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[14-Jul-2025 03:04:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[14-Jul-2025 03:04:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[14-Jul-2025 03:04:02 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[15-Jul-2025 19:28:41 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:21:33 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[16-Jul-2025 20:22:38 Asia/Karachi] PHP Warning:  Undefined variable $wa_link in /home/frozofun/admin/entities/sales/shipping_docs.php on line 431
+[23-Jul-2025 17:06:36 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:06:56 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:07:02 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:07:50 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:08:47 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:12:41 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:12:55 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:13:23 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[23-Jul-2025 17:13:33 Asia/Karachi] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/frozofun/admin/entities/sales/print_invoice.php:33
+Stack trace:
+#0 /home/frozofun/admin/entities/sales/print_invoice.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 33
+[27-Jul-2025 23:15:09 Asia/Karachi] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case 'Overdue' in /home/frozofun/admin/entities/sales/receivables.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/receivables.php on line 283
+[27-Jul-2025 23:40:46 Asia/Karachi] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case 'Overdue' in /home/frozofun/admin/entities/sales/receivables.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/receivables.php on line 283
+[08-Aug-2025 09:01:27 Asia/Karachi] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case 'Overdue' in /home/frozofun/admin/entities/sales/receivables.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/receivables.php on line 283
+[17-Aug-2025 17:10:01 UTC] PHP Warning:  require_once(/home/frozofun/admin/entities/sales/includes/db_connection.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[17-Aug-2025 17:10:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/includes/db_connection.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 6
+[17-Aug-2025 22:10:32 Asia/Karachi] PHP Warning:  require(/home/frozofun/admin/entities/sales/templates/invoice.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 120
+[17-Aug-2025 22:10:32 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/templates/invoice.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 120
+[17-Aug-2025 22:10:33 Asia/Karachi] PHP Warning:  require(/home/frozofun/admin/entities/sales/templates/invoice.php): Failed to open stream: No such file or directory in /home/frozofun/admin/entities/sales/print_invoice.php on line 120
+[17-Aug-2025 22:10:33 Asia/Karachi] PHP Fatal error:  Uncaught Error: Failed opening required '/home/frozofun/admin/entities/sales/templates/invoice.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/frozofun/admin/entities/sales/print_invoice.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/print_invoice.php on line 120
+[23-Aug-2025 07:44:37 Asia/Karachi] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case 'Overdue' in /home/frozofun/admin/entities/sales/receivables.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/receivables.php on line 283
+[24-Aug-2025 11:42:48 Asia/Karachi] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case 'Overdue' in /home/frozofun/admin/entities/sales/receivables.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/receivables.php on line 283
+[12-Sep-2025 00:57:48 Asia/Karachi] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case 'Overdue' in /home/frozofun/admin/entities/sales/receivables.php:283
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/sales/receivables.php on line 283

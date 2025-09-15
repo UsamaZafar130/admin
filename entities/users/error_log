@@ -1,0 +1,5 @@
+[19-Jul-2025 22:40:19 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function get_flash() in /home/frozofun/admin/includes/header.php:102
+Stack trace:
+#0 /home/frozofun/admin/entities/users/list.php(4): include()
+#1 {main}
+  thrown in /home/frozofun/admin/includes/header.php on line 102

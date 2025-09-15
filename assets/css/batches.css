@@ -1,0 +1,256 @@
+/* Batches Page Styling */
+.badge-status {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    min-width: 70px;
+    text-align: center;
+}
+
+.badge-secondary { 
+    background: #7f8c8d; 
+}
+
+.badge-warning { 
+    background: #f39c12; 
+}
+
+.badge-success { 
+    background: #2ecc40; 
+}
+
+/* Action buttons inline styling */
+.action-btns-inline {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.order-status-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 11px;
+    text-align: center;
+    min-width: 75px;
+}
+
+.order-status-delivered {
+    background: var(--bs-success) !important;
+    color: #fff !important;
+}
+
+.order-status-undelivered {
+    background: var(--bs-warning) !important;
+    color: #fff !important;
+}
+
+.batch-order-checkbox, .batch-select-all-checkbox { 
+    width: 20px; 
+    height: 20px; 
+    vertical-align: middle; 
+    cursor: pointer; 
+}
+
+.batch-bulk-row-inside-table {
+    display: flex; 
+    gap: 10px; 
+    justify-content: flex-end; 
+    align-items: center;
+    padding: 6px 0 6px 0; 
+    background: transparent; 
+    border-bottom: 1px solid #eaf0fa;
+}
+
+.batch-bulk-btn {
+    background: none; 
+    border: none; 
+    border-radius: 7px; 
+    padding: 7px 10px;
+    font-size: 1.25rem; 
+    font-weight: 600; 
+    cursor: pointer; 
+    margin-right: 0;
+    transition: background 0.17s, color 0.17s; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.batch-bulk-btn i.fa-truck { 
+    color: #1ca37c; 
+}
+
+.batch-bulk-btn i.fa-truck:hover { 
+    color: #16745b; 
+}
+
+.btn-unlink-order {
+    background: none; 
+    border: none; 
+    cursor: pointer; 
+    color: #0070e0;
+    padding: 2px 6px; 
+    margin-left: 4px; 
+    font-size: 15px; 
+    vertical-align: middle;
+}
+
+.btn-unlink-order:hover { 
+    color: #e67e22; 
+}
+
+.batch-bulk-btn i.fa-money, 
+.batch-bulk-btn i.fa-money-bill, 
+.batch-bulk-btn i.fa-money-bill-alt, 
+.batch-bulk-btn i.fa-credit-card {
+    color: #218838;
+}
+
+.batch-bulk-btn i.fa-money:hover,
+.batch-bulk-btn i.fa-money-bill:hover,
+.batch-bulk-btn i.fa-money-bill-alt:hover,
+.batch-bulk-btn i.fa-credit-card:hover {
+    color: #166c27;
+}
+
+.batch-bulk-btn i.fa-list { 
+    color: #2980b9; 
+}
+
+.batch-bulk-btn i.fa-list:hover { 
+    color: #145a86; 
+}
+
+.actions-bar-top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+/* TomSelect styling for modals */
+#linkOrdersModal .ts-control,
+#linkOrdersModal .ts-dropdown,
+#createBatchModal .ts-control,
+#createBatchModal .ts-dropdown {
+    background: #f6f8fa !important;
+    color: #243c5a !important;
+}
+
+#linkOrdersModal .ts-control input,
+#createBatchModal .ts-control input {
+    color: #243c5a !important;
+}
+
+#linkOrdersModal .ts-dropdown .option,
+#createBatchModal .ts-dropdown .option {
+    color: #243c5a !important;
+}
+
+/* Badge styles for status */
+.badge-order-status {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    min-width: 75px;
+    text-align: center;
+}
+
+.badge-order-status-delivered {
+    background: #2ecc40 !important;
+    color: #fff !important;
+    border: 1px solid #1e8c2f;
+}
+
+.badge-order-status-undelivered {
+    background: #e74c3c !important;
+    color: #fff !important;
+    border: 1px solid #b82e24;
+}
+
+.badge-order-status-pending {
+    background: #f39c12 !important;
+    color: #fff !important;
+    border: 1px solid #d68910;
+}
+
+.badge-order-status-inprocess {
+    background: #3498db !important;
+    color: #fff !important;
+    border: 1px solid #2980b9;
+}
+
+/* Responsive table styles for batch summary and modal tables */
+@media (max-width: 768px) {
+    #summary-modal .table,
+    #items-modal .table {
+        border: 0;
+    }
+    
+    #summary-modal .table thead,
+    #items-modal .table thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+    }
+    
+    #summary-modal .table tr,
+    #items-modal .table tr {
+        border-bottom: 3px solid #ddd;
+        display: block;
+        margin-bottom: .625em;
+    }
+    
+    #summary-modal .table td,
+    #items-modal .table td {
+        border-bottom: 1px solid #ddd;
+        display: block;
+        font-size: .8em;
+        text-align: right;
+        padding-left: 50% !important;
+        position: relative;
+    }
+    
+    #summary-modal .table td:before,
+    #items-modal .table td:before {
+        content: attr(data-label) ": ";
+        position: absolute;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        font-weight: bold;
+        text-align: left;
+    }
+}
+
+/* Item list styling in modals */
+.item-list-margin {
+    margin: 0;
+    padding-left: 1.5rem;
+}
+
+.item-list-margin li {
+    margin-bottom: 0.5rem;
+}
+
+.no-items-text {
+    color: #6c757d;
+    font-style: italic;
+}

@@ -1,0 +1,87 @@
+[25-Jul-2025 18:14:49 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(82): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[25-Jul-2025 18:27:09 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/form.php:18
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(27): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/form.php on line 18
+[25-Jul-2025 18:27:28 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(82): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[25-Jul-2025 18:43:44 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(82): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[25-Jul-2025 18:44:51 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/form.php:18
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(27): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/form.php on line 18
+[25-Jul-2025 18:44:57 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(82): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[25-Jul-2025 18:44:58 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/form.php:18
+Stack trace:
+#0 /home/frozofun/admin/entities/meals/actions.php(27): include()
+#1 {main}
+  thrown in /home/frozofun/admin/entities/meals/form.php on line 18
+[27-Jul-2025 18:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[27-Jul-2025 18:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[27-Jul-2025 18:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[27-Jul-2025 18:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[27-Jul-2025 18:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[27-Jul-2025 18:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[03-Sep-2025 16:33:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[05-Sep-2025 15:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[06-Sep-2025 15:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[07-Sep-2025 19:20:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[10-Sep-2025 00:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[11-Sep-2025 21:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10
+[13-Sep-2025 16:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function h() in /home/frozofun/admin/entities/meals/details.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/frozofun/admin/entities/meals/details.php on line 10

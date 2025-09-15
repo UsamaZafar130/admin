@@ -1,0 +1,384 @@
+/* Sidebar Navigation Styles */
+/* Designed to work with Bootstrap 5 themes and adapt to theme colors */
+
+/* Body layout for sticky footer */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding-bottom: 60px; /* Account for sticky footer height */
+}
+
+/* Main layout container */
+.layout-container {
+    display: flex;
+    flex: 1;
+}
+
+.sidebar {
+    width: 220px;
+    min-height: 100vh;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+/* Collapsed sidebar state */
+.sidebar.collapsed {
+    width: 60px;
+}
+
+/* Sidebar header adjustments */
+.sidebar-header {
+    flex-shrink: 0;
+    transition: all 0.3s ease;
+}
+
+.sidebar.collapsed .sidebar-header {
+    padding: 1rem 0.5rem !important;
+    justify-content: center !important;
+}
+
+/* Toggle button inside sidebar */
+.sidebar-toggle-btn {
+    transition: all 0.3s ease;
+    min-width: 100%;
+    height: 36px;
+}
+
+.sidebar.collapsed .sidebar-toggle-btn {
+    min-width: 32px;
+    height: 32px;
+    padding: 0.25rem;
+}
+
+/* Toggle button text transitions */
+.toggle-text {
+    transition: all 0.3s ease;
+    opacity: 1;
+    transform: translateX(0);
+    white-space: nowrap;
+}
+
+.sidebar.collapsed .toggle-text {
+    opacity: 0;
+    transform: translateX(-10px);
+    width: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* Sidebar title with smooth transitions */
+.sidebar-title {
+    transition: all 0.3s ease;
+    opacity: 1;
+    transform: translateX(0);
+    white-space: nowrap;
+}
+
+.sidebar.collapsed .sidebar-title {
+    opacity: 0;
+    transform: translateX(-20px);
+    width: 0;
+    margin: 0 !important;
+    overflow: hidden;
+}
+
+/* Logo adjustments */
+.sidebar.collapsed .logo-img {
+    margin: 0 auto;
+}
+
+/* Navigation text transitions */
+.nav-text {
+    transition: all 0.3s ease;
+    opacity: 1;
+    transform: translateX(0);
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.sidebar.collapsed .nav-text {
+    opacity: 0;
+    transform: translateX(-10px);
+    width: 0;
+    margin: 0;
+}
+
+/* Chevron icon transitions */
+.nav-link .nav-chevron {
+    transition: all 0.3s ease;
+    opacity: 1;
+    transform: translateX(0);
+    min-width: 14px;
+}
+
+.sidebar.collapsed .nav-link .nav-chevron {
+    opacity: 0;
+    transform: translateX(-10px);
+    width: 0;
+    min-width: 0;
+    margin: 0;
+}
+
+/* Sidebar footer adjustments */
+.sidebar-footer {
+    flex-shrink: 0;
+    transition: all 0.3s ease;
+}
+
+.sidebar.collapsed .sidebar-footer .btn {
+    margin-bottom: 0.25rem !important;
+    padding: 0.375rem !important;
+    width: 100% !important;
+    height: auto !important;
+    opacity: 1 !important;
+    transform: none !important;
+    overflow: visible !important;
+}
+
+.sidebar.collapsed .sidebar-footer {
+    padding: 0.5rem;
+}
+
+/* Hide button text in collapsed state */
+.sidebar.collapsed .sidebar-footer .nav-text {
+    opacity: 0;
+    transform: translateX(-10px);
+    width: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* Remove the old pseudo-element settings icon */
+.sidebar.collapsed .sidebar-footer::after {
+    display: none;
+}
+
+/* Collapsed sidebar navigation adjustments */
+.sidebar.collapsed .nav-sidebar {
+    padding: 1rem 0.5rem;
+}
+
+.sidebar.collapsed .nav-link {
+    justify-content: center;
+    padding: 0.5rem;
+    position: relative;
+    margin-bottom: 0.25rem;
+}
+
+.sidebar.collapsed .nav-link:hover {
+    transform: none !important;
+}
+
+/* Tooltip functionality for collapsed sidebar */
+.sidebar.collapsed .nav-link:hover::before {
+    content: attr(data-tooltip);
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--bs-dark);
+    color: white;
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    white-space: nowrap;
+    z-index: 1001;
+    margin-left: 0.75rem;
+    opacity: 0;
+    animation: tooltipFadeIn 0.2s ease 0.5s forwards;
+    pointer-events: none;
+}
+
+.sidebar.collapsed .nav-link:hover::after {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 4px 6px 4px 0;
+    border-color: transparent var(--bs-dark) transparent transparent;
+    z-index: 1001;
+    margin-left: 0.125rem;
+    opacity: 0;
+    animation: tooltipFadeIn 0.2s ease 0.5s forwards;
+}
+
+@keyframes tooltipFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-50%) translateX(-5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(-50%) translateX(0);
+    }
+}
+
+.sidebar-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+/* Navigation styles that adapt to Bootstrap themes */
+.nav-sidebar .nav-link {
+    border-radius: 0.375rem;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+.nav-sidebar .nav-link:hover {
+    background-color: var(--bs-primary) !important;
+    color: white !important;
+    transform: translateX(2px);
+}
+
+.nav-sidebar .nav-link.active {
+    background-color: var(--bs-primary) !important;
+    color: white !important;
+}
+
+/* Sticky footer */
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+/* Responsive adjustments */
+@media (min-width: 992px) {
+    .main-content {
+        margin-left: 280px;
+        padding: 20px;
+        flex: 1;
+        transition: margin-left 0.3s ease;
+    }
+    
+    .main-content.sidebar-collapsed {
+        margin-left: 60px;
+    }
+    
+    /* Footer positioning - adjust for sidebar */
+    .fixed-footer {
+        left: 280px;
+        transition: left 0.3s ease;
+    }
+    
+    .fixed-footer.sidebar-collapsed {
+        left: 60px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .sidebar {
+        display: none;
+    }
+    
+    .main-content {
+        margin-left: 0;
+        padding: 20px;
+        padding-top: 70px; /* Account for mobile toggle button */
+        flex: 1;
+    }
+    
+    /* Footer on mobile spans full width */
+    .fixed-footer {
+        left: 0;
+    }
+    
+    /* Hide desktop toggle button on mobile */
+    #sidebarToggle {
+        display: none !important;
+    }
+}
+
+/* Theme adaptations */
+[data-theme="darkly"] .sidebar,
+[data-theme="cyborg"] .sidebar,
+[data-theme="slate"] .sidebar,
+[data-theme="superhero"] .sidebar,
+[data-theme="vapor"] .sidebar,
+[data-theme="solar"] .sidebar {
+    background-color: var(--bs-dark) !important;
+    border-color: var(--bs-gray-600) !important;
+}
+
+[data-theme="darkly"] .sidebar .nav-link,
+[data-theme="cyborg"] .sidebar .nav-link,
+[data-theme="slate"] .sidebar .nav-link,
+[data-theme="superhero"] .sidebar .nav-link,
+[data-theme="vapor"] .sidebar .nav-link,
+[data-theme="solar"] .sidebar .nav-link {
+    color: var(--bs-light) !important;
+}
+
+[data-theme="darkly"] .sidebar .text-muted,
+[data-theme="cyborg"] .sidebar .text-muted,
+[data-theme="slate"] .sidebar .text-muted,
+[data-theme="superhero"] .sidebar .text-muted,
+[data-theme="vapor"] .sidebar .text-muted,
+[data-theme="solar"] .sidebar .text-muted {
+    color: var(--bs-gray-400) !important;
+}
+
+[data-theme="darkly"] .fixed-footer,
+[data-theme="cyborg"] .fixed-footer,
+[data-theme="slate"] .fixed-footer,
+[data-theme="superhero"] .fixed-footer,
+[data-theme="vapor"] .fixed-footer,
+[data-theme="solar"] .fixed-footer {
+    background-color: var(--bs-dark) !important;
+    border-color: var(--bs-gray-600) !important;
+}
+
+/* Collapse animation for submenu */
+.collapse {
+    transition: height 0.3s ease;
+}
+
+/* Logo adjustments for sidebar */
+.sidebar .logo-img {
+    max-height: 40px;
+    width: auto;
+}
+
+/* Navigation text visibility for smaller sidebar */
+.nav-text {
+    white-space: nowrap;
+}
+
+/* Scrollbar styling for sidebar content */
+.sidebar-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sidebar-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb {
+    background: var(--bs-gray-400);
+    border-radius: 3px;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb:hover {
+    background: var(--bs-gray-500);
+}

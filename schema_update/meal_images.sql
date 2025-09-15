@@ -1,0 +1,3 @@
+ALTER TABLE meals
+  ADD COLUMN display_image VARCHAR(255) DEFAULT NULL AFTER name,
+  ADD COLUMN banner_image VARCHAR(255) DEFAULT NULL AFTER display_image;
